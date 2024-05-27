@@ -1,4 +1,4 @@
-#Agrik-consult
+# Agrik-consult
 
 Agrik_Consult is a web-based application designed to seamlessly connect farmers with credible agricultural consultants. By leveraging advanced matchmaking algorithms, our platform efficiently pairs farmers with consultants tailored to their specific needs and environmental conditions. This ensures that farmers receive relevant expertise and guidance suited to their unique circumstances.
 
