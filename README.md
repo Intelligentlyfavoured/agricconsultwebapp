@@ -17,4 +17,27 @@ Welcome to Agricultural Consultant Connect (AgriCon), a web-based application de
 -Node.js
 -NPM/Yarn
 -MySQL or any other compatible database
+### Steps
+1. Clone the Repository
+''' git clone https://github.com/yourusername/AgriCon.git
+cd AgriCon '''
+2. Install the dependencies
+   ''' composer install
+npm install
+npm run dev
+'''
+3. Environment Setup
+   Copy .env.example to .env and update the database and other configurations.
+   ''' 
+cp .env.example .env
+php artisan key:generate
+'''
+4. Database Migration
+   ''' php artisan migrate
+'''
+5. Serve the Application
+   ''' 
+php artisan serve
+'''
+
 
