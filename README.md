@@ -3,10 +3,15 @@ Welcome to Agricultural Consultant Connect (AgriCon), a web-based application de
 
 ## Features
 -Expert Matchmaking: Connects farmers with credible agricultural consultants based on specific needs and environmental conditions.
+
 -Review and Rating System: Allows farmers to review and rate consultant services, promoting transparency and accountability.
+
 -Q&A Forum: Provides a robust platform for farmers to pose inquiries and receive timely responses from a diverse pool of consultants.
+
 -Live Interaction: Facilitates direct interaction and feedback between farmers and consultants, fostering a collaborative ecosystem.
+
 -Knowledge Sharing: Enhances knowledge-sharing and problem-solving within the agricultural community.
+
 ## Tech Stack
 -Backend Framework: Laravel
 -Frontend: Jetstream Livewire
