@@ -20,7 +20,7 @@ Welcome to Agricultural Consultant Connect (AgriCon), a web-based application de
 ## Installation
 
 ### Prerequisites
--PHP >= 7.3
+-PHP v8.1
 
 -Composer
 
