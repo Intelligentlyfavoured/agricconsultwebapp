@@ -32,12 +32,12 @@ Welcome to Agricultural Consultant Connect (AgriCon), a web-based application de
 
 ### Steps
 1. Clone the Repository
-''' git clone https://github.com/yourusername/AgriCon.git
-cd AgriCon '''
+ - > git clone https://github.com/yourusername/AgriCon.git
+  -> cd Agrik-Consult
 2. Install the dependencies
   > composer install
   > npm install
-  >npm run dev
+ >npm run dev
    
 3. Environment Setup
    Copy .env.example to .env and update the database and other configurations.
