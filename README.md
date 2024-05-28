@@ -14,14 +14,22 @@ Welcome to Agricultural Consultant Connect (AgriCon), a web-based application de
 
 ## Tech Stack
 -Backend Framework: Laravel
+
 -Frontend: Jetstream Livewire
+
 ## Installation
+
 ### Prerequisites
 -PHP >= 7.3
+
 -Composer
+
 -Node.js
+
 -NPM/Yarn
+
 -MySQL or any other compatible database
+
 ### Steps
 1. Clone the Repository
 ''' git clone https://github.com/yourusername/AgriCon.git
@@ -33,12 +41,12 @@ npm run dev
 '''
 3. Environment Setup
    Copy .env.example to .env and update the database and other configurations.
-   ''' 
-cp .env.example .env
+   
+>cp .env.example .env
 php artisan key:generate
-'''
+
 4. Database Migration
-   ''' php artisan migrate
+   > ''' php artisan migrate
 '''
 5. Serve the Application
    ''' 
