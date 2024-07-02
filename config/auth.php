@@ -40,6 +40,14 @@ return [
             'driver' => 'session',
             'provider' => 'users',
         ],
+        'farmers' => [
+            'driver' => 'session',
+            'provider' => 'farmers',
+        ],
+        'consultants' => [
+            'driver' => 'session',
+            'provider' => 'consultants',
+        ],
     ],
 
     /*
@@ -65,10 +73,16 @@ return [
             'model' => env('AUTH_MODEL', App\Models\User::class),
         ],
 
-        // 'users' => [
-        //     'driver' => 'database',
-        //     'table' => 'users',
-        // ],
+        'farmers' => [
+            'driver' => 'eloquent',
+            'model' => env('AUTH_MODEL', App\Models\Farmer::class),
+        ],
+
+        'consultants' => [
+            'driver' => 'eloquent',
+            'model' => env('AUTH_MODEL', App\Models\Consultant::class),
+        ],
+
     ],
 
     /*
