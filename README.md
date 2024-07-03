@@ -1,13 +1,12 @@
 # Agrik-Consult: Cultivating Food Security Solutions with Expert Guidance
 
-<<<<<<< HEAD
+
 ## Introduction
 Agrik-Consult addresses the significant challenges in the agricultural industry due to the shortage of expert guidance. This shortage impacts decisions on crop selection, planting techniques, pest management, and soil health. Without access to informed advice, farmers struggle to make optimal choices, leading to reduced crop yields, diminished produce quality, and increased vulnerability to pests and diseases.
 =======
 <p align="left">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
->>>>>>> cb3855c597ba4598df012317f9a0a82f1e1731b4
 
 Agrik-Consult is a web-based application designed to seamlessly connect farmers with credible agricultural consultants. Using advanced matchmaking algorithms, the platform efficiently pairs farmers with consultants tailored to their specific needs and environmental conditions. The application promotes transparency and accountability by allowing users to review and rate consultant services, fostering a collaborative ecosystem aimed at improving agricultural practices and outcomes.
 
@@ -27,7 +26,7 @@ Before you begin, make sure you have the following installed on your computer:
     - Open your terminal or command prompt.
     - Run the following command to clone the repository to your local machine:
       ```bash
-      git clone https://github.com/hopemacharia/agrik-consult.git
+      [git clone https://github.com/hopemacharia/agrik-consult.git](https://github.com/Intelligentlyfavoured/agricconsultwebapp.git)
       ```
     - Navigate to the project directory:
       ```bash
