@@ -30,7 +30,7 @@ Before you begin, make sure you have the following installed on your computer:
       ```
     - Navigate to the project directory:
       ```bash
-      cd agrik-consult
+      cd agrikconsultwebapp
       ```
 
 2. **Install PHP Dependencies**
