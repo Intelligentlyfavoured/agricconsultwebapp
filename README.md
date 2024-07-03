@@ -1,9 +1,9 @@
 # Agrik-Consult: Cultivating Food Security Solutions with Expert Guidance
 
 ## Introduction
-=======
+
 Agrik-Consult addresses the significant challenges in the agricultural industry due to the shortage of expert guidance. This shortage impacts decisions on crop selection, planting techniques, pest management, and soil health. Without access to informed advice, farmers struggle to make optimal choices, leading to reduced crop yields, diminished produce quality, and increased vulnerability to pests and diseases.
-=======
+
 <p align="left">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
