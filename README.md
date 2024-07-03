@@ -26,7 +26,7 @@ Before you begin, make sure you have the following installed on your computer:
     - Open your terminal or command prompt.
     - Run the following command to clone the repository to your local machine:
       ```bash
-      [git clone https://github.com/hopemacharia/agrik-consult.git](https://github.com/Intelligentlyfavoured/agricconsultwebapp.git)
+      git clone (https://github.com/Intelligentlyfavoured/agricconsultwebapp.git)
       ```
     - Navigate to the project directory:
       ```bash
