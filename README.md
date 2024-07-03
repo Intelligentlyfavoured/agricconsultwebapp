@@ -1,8 +1,8 @@
+
+
 # Agrik-Consult: Cultivating Food Security Solutions with Expert Guidance
 
 ## Introduction
-
-Agrik-Consult addresses the significant challenges in the agricultural industry due to the shortage of expert guidance. This shortage impacts decisions on crop selection, planting techniques, pest management, and soil health. Without access to informed advice, farmers struggle to make optimal choices, leading to reduced crop yields, diminished produce quality, and increased vulnerability to pests and diseases.
 
 <p align="left">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
@@ -11,6 +11,10 @@ Agrik-Consult addresses the significant challenges in the agricultural industry 
 Agrik-Consult is a web-based application designed to seamlessly connect farmers with credible agricultural consultants. Using advanced matchmaking algorithms, the platform efficiently pairs farmers with consultants tailored to their specific needs and environmental conditions. The application promotes transparency and accountability by allowing users to review and rate consultant services, fostering a collaborative ecosystem aimed at improving agricultural practices and outcomes.
 
 Additionally, the application features a robust Q&A forum where farmers can pose inquiries and receive timely responses from a diverse pool of consultants. By integrating technology and expert knowledge, Agrik-Consult empowers farmers with the resources and support necessary to optimize their farming practices, increase productivity, and achieve sustainable agricultural success.
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Setup/Installation Instructions
 
@@ -263,3 +267,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact Information
 For questions or feedback, please open an issue on the GitHub repository.
+
