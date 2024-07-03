@@ -12,7 +12,7 @@ Additionally, the application features a robust Q&A forum where farmers can pose
 
 ### Built With
 
-* [![Laravel][Laravel.com]][Laravel-url]
+*[![Laravel][Laravel.com]][Laravel-url]
 * [![Tailwind][Tailwindcss.com]][Tailwind-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Livewire][Livewire.com]][Livewire-url]
