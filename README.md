@@ -10,13 +10,6 @@ Agrik-Consult is a web-based application designed to seamlessly connect farmers 
 
 Additionally, the application features a robust Q&A forum where farmers can pose inquiries and receive timely responses from a diverse pool of consultants. By integrating technology and expert knowledge, Agrik-Consult empowers farmers with the resources and support necessary to optimize their farming practices, increase productivity, and achieve sustainable agricultural success.
 
-### Built With
-
-*[![Laravel][Laravel.com]][Laravel-url]
-* [![Tailwind][Tailwindcss.com]][Tailwind-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Livewire][Livewire.com]][Livewire-url]
-* [![DaisyUI][DaisyUI.com]][DaisyUI-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
